@@ -1,2 +1,2 @@
-# JSP
+# JSP（Java Server Pages）
 
