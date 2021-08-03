@@ -9,6 +9,8 @@
 
 ## Web <a id="ye-mian-jiao-hu"></a>
 
+* [动态网站跟踪与请求](ye-mian-jiao-hu/untitled/README.md)
+  * [Cookie](ye-mian-jiao-hu/untitled/cookie.md)
 * [JavaScript](ye-mian-jiao-hu/javascript.md)
 * [Servlet](ye-mian-jiao-hu/servlet.md)
 * [HTML](ye-mian-jiao-hu/html.md)
@@ -17,5 +19,4 @@
 ## 数据端
 
 * [Mysql](shu-ju-duan/mysql.md)
-* [Untitled](shu-ju-duan/untitled.md)
 
