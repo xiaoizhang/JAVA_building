@@ -1,8 +1,4 @@
----
-description: Spring+SpringMVC+MyBatis
----
-
-# SSM
+# Spring+SpringMVC+MyBatis
 
 框架集由Spring、SpringMVC、MyBatis三个开源框架整合而成，常作为数据源较简单的web项目的框架。
 

@@ -2,16 +2,12 @@
 
 * [Introduction](README.md)
 * [JAVA版本之间关系](java-ban-ben-zhi-jian-guan-xi.md)
-* [JSP（Java Server Pages）](jsp.md)
-* [jQuery](jquery.md)
-* [JDBC](jdbc.md)
-* [SSM](ssm/README.md)
-  * [Spring框架](ssm/spring-kuang-jia.md)
-  * [MyBatis](ssm/mybatis.md)
-  * [SpringMVC](ssm/springmvc.md)
 
 ## 基础Web <a id="ye-mian-jiao-hu"></a>
 
+* [JSP（Java Server Pages）](ye-mian-jiao-hu/jsp.md)
+* [jQuery](ye-mian-jiao-hu/jquery.md)
+* [JDBC](ye-mian-jiao-hu/jdbc.md)
 * [动态网站跟踪与请求](ye-mian-jiao-hu/untitled/README.md)
   * [Cookie](ye-mian-jiao-hu/untitled/cookie.md)
 * [JavaScript](ye-mian-jiao-hu/javascript.md)
@@ -34,5 +30,8 @@
 
 ## SSM架构
 
-* [Untitled](ssm-jia-gou/untitled.md)
+* [Spring+SpringMVC+MyBatis](ssm-jia-gou/ssm/README.md)
+  * [Spring框架](ssm-jia-gou/ssm/spring-kuang-jia.md)
+  * [MyBatis](ssm-jia-gou/ssm/mybatis.md)
+  * [SpringMVC](ssm-jia-gou/ssm/springmvc.md)
 
