@@ -7,6 +7,8 @@
 * [JDBC](jdbc.md)
 * [SSM](ssm/README.md)
   * [Spring框架](ssm/spring-kuang-jia.md)
+  * [MyBatis](ssm/mybatis.md)
+  * [SpringMVC](ssm/springmvc.md)
 
 ## 基础Web <a id="ye-mian-jiao-hu"></a>
 
